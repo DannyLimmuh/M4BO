@@ -517,11 +517,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -7552582706839291426, guid: 9250c0e9cf829c84db00328983463002, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.13336
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7552582706839291426, guid: 9250c0e9cf829c84db00328983463002, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.24
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7552582706839291426, guid: 9250c0e9cf829c84db00328983463002, type: 3}
       propertyPath: m_LocalPosition.z
@@ -561,7 +561,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -7552582706839291426, guid: 9250c0e9cf829c84db00328983463002, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1467670073}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: -8653719598885068355, guid: 9250c0e9cf829c84db00328983463002, type: 3}
       insertIndex: -1
@@ -1327,6 +1330,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
   horizontalSpeed: 3
+  animator: {fileID: 1097817706}
 --- !u!70 &1097817709
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -1391,6 +1395,11 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!4 &1097817711 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -7552582706839291426, guid: 9250c0e9cf829c84db00328983463002, type: 3}
+  m_PrefabInstance: {fileID: 391610031}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1140420740
 GameObject:
   m_ObjectHideFlags: 0
@@ -2091,12 +2100,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1467670070}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalRotation: {x: 0.000000007441331, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.7, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1097817711}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1467670074
 MonoBehaviour:
@@ -2705,10 +2714,9 @@ SpriteRenderer:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 1467670073}
-  - {fileID: 1335042319}
   - {fileID: 1819422289}
   - {fileID: 864159775}
   - {fileID: 1332470512}
   - {fileID: 636215781}
+  - {fileID: 1335042319}
   - {fileID: 391610031}
