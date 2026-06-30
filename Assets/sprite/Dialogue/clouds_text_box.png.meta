@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: a97ac5b6e410d1148b20b73250395dbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 358656956967245366
+    second: clouds_text_box_0
+  - first:
+      213: 3647498158375577431
+    second: clouds_text_box_1
+  - first:
+      213: -7879588818393398057
+    second: clouds_text_box_2
+  - first:
+      213: -4887504647869587379
+    second: clouds_text_box_3
+  - first:
+      213: 9137736959711641793
+    second: clouds_text_box_4
+  - first:
+      213: -105902108953285054
+    second: clouds_text_box_5
+  - first:
+      213: -1747908117780511637
+    second: clouds_text_box_6
+  - first:
+      213: -974669963917385414
+    second: clouds_text_box_7
+  - first:
+      213: -5198950833441866733
+    second: clouds_text_box_8
+  - first:
+      213: 1247848629622511187
+    second: clouds_text_box_9
+  - first:
+      213: 8940688197207099974
+    second: clouds_text_box_10
+  - first:
+      213: -1061908773344828511
+    second: clouds_text_box_11
+  - first:
+      213: 3711459803593431932
+    second: clouds_text_box_12
+  - first:
+      213: 6168639483124493148
+    second: clouds_text_box_13
+  - first:
+      213: 493063258805913570
+    second: clouds_text_box_14
+  - first:
+      213: 190448092817461947
+    second: clouds_text_box_15
+  - first:
+      213: 8444612083654613250
+    second: clouds_text_box_16
+  - first:
+      213: -5196435149738922783
+    second: clouds_text_box_17
+  - first:
+      213: -6906682889712998059
+    second: clouds_text_box_18
+  - first:
+      213: 9174597419080965194
+    second: clouds_text_box_19
+  - first:
+      213: 7139613853414807071
+    second: clouds_text_box_20
+  - first:
+      213: -3317978839448550494
+    second: clouds_text_box_21
+  - first:
+      213: 4345076729162152682
+    second: clouds_text_box_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clouds_text_box_0
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1213
+        width: 1083
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63651442a943af400800000000000000
+      internalID: 358656956967245366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_1
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1899
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7572ed0ff348e9230800000000000000
+      internalID: 3647498158375577431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1805
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4858fa7b316a290800000000000000
+      internalID: -7879588818393398057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1857
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40a9a9fa681c2cb0800000000000000
+      internalID: -4887504647869587379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1825
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0029ed953cfce70800000000000000
+      internalID: 9137736959711641793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1749
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eefdec792c78ef0800000000000000
+      internalID: -105902108953285054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1711
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64cba3e3de2eb7e0800000000000000
+      internalID: -1747908117780511637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1654
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a312673f4d64972f0800000000000000
+      internalID: -974669963917385414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_8
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1459
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cf9ff13cd99d7b0800000000000000
+      internalID: -5198950833441866733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1282
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3569b1e97bf315110800000000000000
+      internalID: 1247848629622511187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1256
+        width: 56
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a8e0aab84b31c70800000000000000
+      internalID: 8940688197207099974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1247
+        width: 79
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a329ecc8975341f0800000000000000
+      internalID: -1061908773344828511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_12
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1109
+        width: 100
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bd357f601c18330800000000000000
+      internalID: 3711459803593431932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_13
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 1162
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ba5135de86b9550800000000000000
+      internalID: 6168639483124493148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_14
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 540
+        width: 1292
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74ce8eb66b7d600800000000000000
+      internalID: 493063258805913570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_15
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1148
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb21988088b94a200800000000000000
+      internalID: 190448092817461947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_16
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 904
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2095438d2f9413570800000000000000
+      internalID: 8444612083654613250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_17
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 784
+        width: 162
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec257163cd82e7b0800000000000000
+      internalID: -5196435149738922783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_18
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 559
+        width: 149
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559636641888620a0800000000000000
+      internalID: -6906682889712998059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_19
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 781
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c59895eb7b25f70800000000000000
+      internalID: 9174597419080965194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_20
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 775
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f165f3ee8f0051360800000000000000
+      internalID: 7139613853414807071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_21
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 650
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3086e23db24f1d0800000000000000
+      internalID: -3317978839448550494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clouds_text_box_22
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 604
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeab6839340dc4c30800000000000000
+      internalID: 4345076729162152682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clouds_text_box_0: 358656956967245366
+      clouds_text_box_1: 3647498158375577431
+      clouds_text_box_10: 8940688197207099974
+      clouds_text_box_11: -1061908773344828511
+      clouds_text_box_12: 3711459803593431932
+      clouds_text_box_13: 6168639483124493148
+      clouds_text_box_14: 493063258805913570
+      clouds_text_box_15: 190448092817461947
+      clouds_text_box_16: 8444612083654613250
+      clouds_text_box_17: -5196435149738922783
+      clouds_text_box_18: -6906682889712998059
+      clouds_text_box_19: 9174597419080965194
+      clouds_text_box_2: -7879588818393398057
+      clouds_text_box_20: 7139613853414807071
+      clouds_text_box_21: -3317978839448550494
+      clouds_text_box_22: 4345076729162152682
+      clouds_text_box_3: -4887504647869587379
+      clouds_text_box_4: 9137736959711641793
+      clouds_text_box_5: -105902108953285054
+      clouds_text_box_6: -1747908117780511637
+      clouds_text_box_7: -974669963917385414
+      clouds_text_box_8: -5198950833441866733
+      clouds_text_box_9: 1247848629622511187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

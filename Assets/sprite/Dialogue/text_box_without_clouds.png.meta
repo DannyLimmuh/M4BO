@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: 5f0e9d582ad92a149918c032a25ab53f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4946829688705120487
+    second: text_box_without_clouds_0
+  - first:
+      213: 9009910772354455910
+    second: text_box_without_clouds_1
+  - first:
+      213: 1592579279791021134
+    second: text_box_without_clouds_2
+  - first:
+      213: 5407959777136966191
+    second: text_box_without_clouds_3
+  - first:
+      213: 9016371584201056597
+    second: text_box_without_clouds_4
+  - first:
+      213: -9211352794865073192
+    second: text_box_without_clouds_5
+  - first:
+      213: -6377634921763631273
+    second: text_box_without_clouds_6
+  - first:
+      213: 2666817986480369764
+    second: text_box_without_clouds_7
+  - first:
+      213: -8787005420910561033
+    second: text_box_without_clouds_8
+  - first:
+      213: 7982727604264157878
+    second: text_box_without_clouds_9
+  - first:
+      213: -8865708408047007062
+    second: text_box_without_clouds_10
+  - first:
+      213: -7053175490403719286
+    second: text_box_without_clouds_11
+  - first:
+      213: 3730747589677701429
+    second: text_box_without_clouds_12
+  - first:
+      213: -7100060265182297647
+    second: text_box_without_clouds_13
+  - first:
+      213: -4775359124610139815
+    second: text_box_without_clouds_14
+  - first:
+      213: 7618536280028923045
+    second: text_box_without_clouds_15
+  - first:
+      213: -2318540335553968324
+    second: text_box_without_clouds_16
+  - first:
+      213: -4989596119773201667
+    second: text_box_without_clouds_17
+  - first:
+      213: 1429358809416572225
+    second: text_box_without_clouds_18
+  - first:
+      213: 8670276210763146049
+    second: text_box_without_clouds_19
+  - first:
+      213: 3709926950507738181
+    second: text_box_without_clouds_20
+  - first:
+      213: -5425381623451578998
+    second: text_box_without_clouds_21
+  - first:
+      213: 295740782247543548
+    second: text_box_without_clouds_22
+  - first:
+      213: -5487303196021805120
+    second: text_box_without_clouds_23
+  - first:
+      213: -6831979426283885638
+    second: text_box_without_clouds_24
+  - first:
+      213: -2629960923030407008
+    second: text_box_without_clouds_25
+  - first:
+      213: -1679007625552664553
+    second: text_box_without_clouds_26
+  - first:
+      213: 8611752328127508559
+    second: text_box_without_clouds_27
+  - first:
+      213: 8737474784094666860
+    second: text_box_without_clouds_28
+  - first:
+      213: 9082921399191288098
+    second: text_box_without_clouds_29
+  - first:
+      213: 2006796872722687051
+    second: text_box_without_clouds_30
+  - first:
+      213: -6207138850042185867
+    second: text_box_without_clouds_31
+  - first:
+      213: -7399583729024639824
+    second: text_box_without_clouds_32
+  - first:
+      213: 7669317781930854429
+    second: text_box_without_clouds_33
+  - first:
+      213: -6058858590229100933
+    second: text_box_without_clouds_34
+  - first:
+      213: 7968171360806858187
+    second: text_box_without_clouds_35
+  - first:
+      213: -6212733652835160841
+    second: text_box_without_clouds_36
+  - first:
+      213: 3800514774270076814
+    second: text_box_without_clouds_37
+  - first:
+      213: 3140240442483823498
+    second: text_box_without_clouds_38
+  - first:
+      213: 4970133029374868428
+    second: text_box_without_clouds_39
+  - first:
+      213: 4110307476025298957
+    second: text_box_without_clouds_40
+  - first:
+      213: 9115042998369025141
+    second: text_box_without_clouds_41
+  - first:
+      213: -5068257418255061990
+    second: text_box_without_clouds_42
+  - first:
+      213: -5476500526387981574
+    second: text_box_without_clouds_43
+  - first:
+      213: -3116076573815287338
+    second: text_box_without_clouds_44
+  - first:
+      213: -4861192004799776312
+    second: text_box_without_clouds_45
+  - first:
+      213: 588617065856576735
+    second: text_box_without_clouds_46
+  - first:
+      213: -8776597170649293594
+    second: text_box_without_clouds_47
+  - first:
+      213: 8423505793575459021
+    second: text_box_without_clouds_48
+  - first:
+      213: -6940375946394521131
+    second: text_box_without_clouds_49
+  - first:
+      213: 6618588109322547432
+    second: text_box_without_clouds_50
+  - first:
+      213: 770887417188275699
+    second: text_box_without_clouds_51
+  - first:
+      213: -9091032932017205912
+    second: text_box_without_clouds_52
+  - first:
+      213: -7200455003396005732
+    second: text_box_without_clouds_53
+  - first:
+      213: 8102616754478675402
+    second: text_box_without_clouds_54
+  - first:
+      213: -8879194250116118466
+    second: text_box_without_clouds_55
+  - first:
+      213: 991601390455617364
+    second: text_box_without_clouds_56
+  - first:
+      213: 4501916549868964351
+    second: text_box_without_clouds_57
+  - first:
+      213: 3998507955934500572
+    second: text_box_without_clouds_58
+  - first:
+      213: 3393887352317085211
+    second: text_box_without_clouds_59
+  - first:
+      213: 1484403602509811484
+    second: text_box_without_clouds_60
+  - first:
+      213: 914654863755815305
+    second: text_box_without_clouds_61
+  - first:
+      213: 7544942928080083044
+    second: text_box_without_clouds_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: text_box_without_clouds_0
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1892
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91700688b94595bb0800000000000000
+      internalID: -4946829688705120487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1753
+        width: 147
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66917246c12a90d70800000000000000
+      internalID: 9009910772354455910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_2
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1806
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c5798ca6af91610800000000000000
+      internalID: 1592579279791021134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_3
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1745
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a79d3c3ceec0b40800000000000000
+      internalID: 5407959777136966191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1732
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551ea3f5f26902d70800000000000000
+      internalID: 9016371584201056597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1767
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d30449df63ba2080800000000000000
+      internalID: -9211352794865073192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1383
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f072d24d61e77a0800000000000000
+      internalID: -6377634921763631273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1402
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460f8cc44d0720520800000000000000
+      internalID: 2666817986480369764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 606
+        width: 3273
+        height: 1129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8b13f00294e0680800000000000000
+      internalID: -8787005420910561033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1398
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2ced6367858ce60800000000000000
+      internalID: 7982727604264157878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_10
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1387
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa0a28ec2da6f480800000000000000
+      internalID: -8865708408047007062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_11
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1392
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87aef3c2461e1e90800000000000000
+      internalID: -7053175490403719286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1387
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539526d9a2746c330800000000000000
+      internalID: 3730747589677701429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1392
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d181f97ec4877d90800000000000000
+      internalID: -7100060265182297647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1387
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95931b65d248abdb0800000000000000
+      internalID: -4775359124610139815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1381
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4cc87c16a7ab960800000000000000
+      internalID: 7618536280028923045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1376
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3704e559d3e2dfd0800000000000000
+      internalID: -2318540335553968324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1381
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa304cd3c461cab0800000000000000
+      internalID: -4989596119773201667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1381
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d99db934a16d310800000000000000
+      internalID: 1429358809416572225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143ae0fc642035870800000000000000
+      internalID: 8670276210763146049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 930
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54479abc7ee4c7330800000000000000
+      internalID: 3709926950507738181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 836
+        width: 27
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d8c3b882c25b4b0800000000000000
+      internalID: -5425381623451578998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_22
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 824
+        width: 119
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2067facaeaa1400800000000000000
+      internalID: 295740782247543548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 645
+        width: 65
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf2142f0de29d3b0800000000000000
+      internalID: -5487303196021805120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 725
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb629fb8eeef21a0800000000000000
+      internalID: -6831979426283885638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_25
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 619
+        width: 110
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a83d918970808bd0800000000000000
+      internalID: -2629960923030407008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_26
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 650
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718e2c7d577f2b8e0800000000000000
+      internalID: -1679007625552664553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_27
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 645
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40feab8d17138770800000000000000
+      internalID: 8611752328127508559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_28
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 626
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6045e3e50fb14970800000000000000
+      internalID: 8737474784094666860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_29
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 623
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2293791a3e40d0e70800000000000000
+      internalID: 9082921399191288098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_30
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 620
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44200f8f1399db10800000000000000
+      internalID: 2006796872722687051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_31
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 615
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57775bb4a10dbd9a0800000000000000
+      internalID: -6207138850042185867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_32
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 620
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcd9b99dc56f4990800000000000000
+      internalID: -7399583729024639824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_33
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 623
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18439d83e3ee6a60800000000000000
+      internalID: 7669317781930854429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_34
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 568
+        width: 103
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b760211a63c9aeba0800000000000000
+      internalID: -6058858590229100933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_35
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 594
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd655ea2a1a49e60800000000000000
+      internalID: 7968171360806858187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_36
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 593
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc25a2c8afe7c9a0800000000000000
+      internalID: -6212733652835160841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_37
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 593
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87edfb1d042eb430800000000000000
+      internalID: 3800514774270076814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_38
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 568
+        width: 103
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8350937b00649b20800000000000000
+      internalID: 3140240442483823498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_39
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 594
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb335648a579f440800000000000000
+      internalID: 4970133029374868428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_40
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 547
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00de124fdeba0930800000000000000
+      internalID: 4110307476025298957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_41
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 547
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c723e30532f7e70800000000000000
+      internalID: 9115042998369025141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 499
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c2baa1bbee9a9b0800000000000000
+      internalID: -5068257418255061990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2976879cf8ff3b0800000000000000
+      internalID: -5476500526387981574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_44
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 483
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1d2d4add871c4d0800000000000000
+      internalID: -3116076573815287338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 499
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9b0f890a3998cb0800000000000000
+      internalID: -4861192004799776312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_46
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 471
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc2d1f4a103b2800800000000000000
+      internalID: 588617065856576735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec10caaf53433680800000000000000
+      internalID: -8776597170649293594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_48
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 323
+        width: 241
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8928db3ed46e470800000000000000
+      internalID: 8423505793575459021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_49
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 364
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d13d7339d4deaf90800000000000000
+      internalID: -6940375946394521131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_50
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 256
+        width: 216
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e07bc291d2f9db50800000000000000
+      internalID: 6618588109322547432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_51
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 251
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f55357850eb2ba00800000000000000
+      internalID: 770887417188275699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_52
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 280
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d8cb5f6b926d180800000000000000
+      internalID: -9091032932017205912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_53
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 244
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90a565f258d21c90800000000000000
+      internalID: -7200455003396005732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_54
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 139
+        width: 274
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac574d93207427070800000000000000
+      internalID: 8102616754478675402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_55
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 89
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38432e9fd3c6c480800000000000000
+      internalID: -8879194250116118466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 42
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457f3ecf530e2cd00800000000000000
+      internalID: 991601390455617364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_57
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 39
+        width: 196
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9446bff350a7e30800000000000000
+      internalID: 4501916549868964351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_58
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 52
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd69c090dcd8d7730800000000000000
+      internalID: 3998507955934500572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_59
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 39
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b160d8ab092891f20800000000000000
+      internalID: 3393887352317085211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 300
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f48e63639a99410800000000000000
+      internalID: 1484403602509811484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_61
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 0
+        width: 249
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989af36a0c181bc00800000000000000
+      internalID: 914654863755815305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: text_box_without_clouds_62
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4681fc64e9505b860800000000000000
+      internalID: 7544942928080083044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      text_box_without_clouds_0: -4946829688705120487
+      text_box_without_clouds_1: 9009910772354455910
+      text_box_without_clouds_10: -8865708408047007062
+      text_box_without_clouds_11: -7053175490403719286
+      text_box_without_clouds_12: 3730747589677701429
+      text_box_without_clouds_13: -7100060265182297647
+      text_box_without_clouds_14: -4775359124610139815
+      text_box_without_clouds_15: 7618536280028923045
+      text_box_without_clouds_16: -2318540335553968324
+      text_box_without_clouds_17: -4989596119773201667
+      text_box_without_clouds_18: 1429358809416572225
+      text_box_without_clouds_19: 8670276210763146049
+      text_box_without_clouds_2: 1592579279791021134
+      text_box_without_clouds_20: 3709926950507738181
+      text_box_without_clouds_21: -5425381623451578998
+      text_box_without_clouds_22: 295740782247543548
+      text_box_without_clouds_23: -5487303196021805120
+      text_box_without_clouds_24: -6831979426283885638
+      text_box_without_clouds_25: -2629960923030407008
+      text_box_without_clouds_26: -1679007625552664553
+      text_box_without_clouds_27: 8611752328127508559
+      text_box_without_clouds_28: 8737474784094666860
+      text_box_without_clouds_29: 9082921399191288098
+      text_box_without_clouds_3: 5407959777136966191
+      text_box_without_clouds_30: 2006796872722687051
+      text_box_without_clouds_31: -6207138850042185867
+      text_box_without_clouds_32: -7399583729024639824
+      text_box_without_clouds_33: 7669317781930854429
+      text_box_without_clouds_34: -6058858590229100933
+      text_box_without_clouds_35: 7968171360806858187
+      text_box_without_clouds_36: -6212733652835160841
+      text_box_without_clouds_37: 3800514774270076814
+      text_box_without_clouds_38: 3140240442483823498
+      text_box_without_clouds_39: 4970133029374868428
+      text_box_without_clouds_4: 9016371584201056597
+      text_box_without_clouds_40: 4110307476025298957
+      text_box_without_clouds_41: 9115042998369025141
+      text_box_without_clouds_42: -5068257418255061990
+      text_box_without_clouds_43: -5476500526387981574
+      text_box_without_clouds_44: -3116076573815287338
+      text_box_without_clouds_45: -4861192004799776312
+      text_box_without_clouds_46: 588617065856576735
+      text_box_without_clouds_47: -8776597170649293594
+      text_box_without_clouds_48: 8423505793575459021
+      text_box_without_clouds_49: -6940375946394521131
+      text_box_without_clouds_5: -9211352794865073192
+      text_box_without_clouds_50: 6618588109322547432
+      text_box_without_clouds_51: 770887417188275699
+      text_box_without_clouds_52: -9091032932017205912
+      text_box_without_clouds_53: -7200455003396005732
+      text_box_without_clouds_54: 8102616754478675402
+      text_box_without_clouds_55: -8879194250116118466
+      text_box_without_clouds_56: 991601390455617364
+      text_box_without_clouds_57: 4501916549868964351
+      text_box_without_clouds_58: 3998507955934500572
+      text_box_without_clouds_59: 3393887352317085211
+      text_box_without_clouds_6: -6377634921763631273
+      text_box_without_clouds_60: 1484403602509811484
+      text_box_without_clouds_61: 914654863755815305
+      text_box_without_clouds_62: 7544942928080083044
+      text_box_without_clouds_7: 2666817986480369764
+      text_box_without_clouds_8: -8787005420910561033
+      text_box_without_clouds_9: 7982727604264157878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
